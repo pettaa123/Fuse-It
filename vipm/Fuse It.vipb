@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2026-02-04 10:24:27" Modified_Date="2026-02-05 10:11:20" Creator="tupp_js" Comments="" ID="810e7144dfa49de40e17e54c829e025c">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2026-02-04 10:24:27" Modified_Date="2026-02-07 13:59:14" Creator="tupp_js" Comments="" ID="433732f683f97328391922de57a03cc5">
   <Library_General_Settings>
     <Package_File_Name>Peter_lib_Fuse_It</Package_File_Name>
     <Library_Version>1.0.0.3</Library_Version>
@@ -27,8 +27,9 @@
     </Custom_Action_VIs>
     <VI_Package_Configuration_File>Fuse It.vipc</VI_Package_Configuration_File>
     <Description>
-      <One_Line_Description_Summary>Replaces Quick Drop Shorts and LVOOP accessors to use Fuse Style Controls and Indicators.</One_Line_Description_Summary>
-      <Description>Replaces Quick Drop Shorts and LVOOP accessors to use Fuse Style Controls and Indicators.
+      <One_Line_Description_Summary>Replaces Quick Drop Shorts and LVOOP accessors and members to use Fuse Style Controls and Indicators.</One_Line_Description_Summary>
+      <Description>Replaces Quick Drop Shorts and LVOOP accessors and members to use Fuse Style Controls and Indicators.
+Sets 'Control Styl for New VIs' to Fuse Design System.
 The changes are restored when uninstalling this package.</Description>
       <Copyright/>
       <Packager>Peter</Packager>

@@ -1,8 +1,8 @@
 # Fuse It
 
-Replaces Quick Drop Shorts and LVOOP accessors/members to use Fuse Style Controls and Indicators.
+Replaces Quick Drop shortcuts and LVOOP accessors/members to use Fuse Style controls and indicators.
 
-Sets Control Style for New VIs to Fuse Design System.
+Sets 'Control Style for New VIs' to Fuse Design System.
 Replaced files/settings are restored when uninstalling this package.
 
 ## Requirements
